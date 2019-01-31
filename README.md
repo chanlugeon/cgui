@@ -48,4 +48,4 @@ public class Example {
 
 
 
-[jar]: https://raw.githubusercontent.com/chanlugeon/cgui/master/cgui-1.jar
+[jar]: https://raw.githubusercontent.com/chanlugeon/cgui/master/jar/cgui-1.jar
